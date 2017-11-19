@@ -16,10 +16,7 @@
 title: Tylan O'Flynn
 email: tylan.oflynn @ gmail.com
 description: >
-  I am an iPhone application developer with a keen interest in artificial
-  intelligence, deep learning, and reinforcement learning. Previously, I
-  completed a B.S. with Honors in Mathematical Physics at the University of
-  Alberta.
+  A personal blog exploring topics related to deep and reinforcement learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TylanofFlynn
